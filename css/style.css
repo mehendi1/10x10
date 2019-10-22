@@ -10,3 +10,7 @@ td{
     width: 500px;
     margin: 100px auto;
 }
+
+.red{
+    background-color: red;
+}
