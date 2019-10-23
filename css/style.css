@@ -3,12 +3,20 @@ body{
 }
 
 td{
-    padding: 10px;
+    /* padding: 10px; */
+    text-align: center;
+    width: 40px;
+    height: 40px;
 }
 
 .box__table{
-    width: 500px;
+    /* width: 500px; */
     margin: 100px auto;
+}
+
+.box__name{
+    font-size: 48px;
+    text-align: center;
 }
 
 .red{
