@@ -7,8 +7,14 @@ td{
 }
 
 .box__table{
-    width: 500px;
-    margin: 100px auto;
+    width: 340px;
+    margin: 40px auto;
+}
+
+.box__name{
+    font-size: 48px;
+    padding-top: 20px;
+    text-align: center;
 }
 
 .red{
