@@ -7,7 +7,7 @@ console.log(all__td);
 all__td.forEach(function(item){
     item.addEventListener('click', function(){
         console.log(item);
-        item.className = "blue";
+        item.className = "red";
     })
 })
 
