@@ -10,8 +10,13 @@ td{
 }
 
 .box__table{
-    /* width: 500px; */
-    margin: 100px auto;
+    margin: 40px auto;
+}
+
+.box__name{
+    font-size: 48px;
+    padding-top: 20px;
+    text-align: center;
 }
 
 .box__name{
@@ -19,6 +24,14 @@ td{
     text-align: center;
 }
 
-.red{
-    background-color: red;
+.yellow{
+    background-color: #f7ad00;
+}
+
+.blue{
+    background-color: #004e8c;
+}
+
+.white{
+    background-color: #f3fffd;
 }
